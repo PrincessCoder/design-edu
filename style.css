@@ -1,7 +1,7 @@
 body {
     font-family: 'Inter', sans-serif;
     background-color: #FDFBF8;
-    color: #333D4B;
+    color: #003333;
 }
 
 .chart-container {
@@ -25,7 +25,7 @@ body {
 }
 
 .nav-link.active {
-    color: #14B8A6;
+    color: #669999;
     transform: translateX(10px);
     font-weight: 700;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 .curriculum-toggle-btn.active {
-    background-color: #14B8A6;
+    background-color: #669999;
     color: white;
 }
 
@@ -56,18 +56,18 @@ body {
 }
 
 .gemini-btn, .cta-btn {
-    background-color: #14B8A6;
+    background-color: #669999;
     color: white;
     transition: background-color 0.3s ease;
 }
 
 .gemini-btn:hover, .cta-btn:hover {
-    background-color: #0F766E;
+    background-color: #336666;
 }
 
 .loader {
     border: 4px solid #f3f3f3;
-    border-top: 4px solid #14B8A6;
+    border-top: 4px solid #669999;
     border-radius: 50%;
     width: 30px;
     height: 30px;
